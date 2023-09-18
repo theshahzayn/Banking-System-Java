@@ -1,0 +1,12 @@
+aun
+hamza1
+shah
+Date Of Birth: Wed May 10 00:00:00 PKT 2023
+Gender: Female
+1000.0
+
+
+Transfer by: usama123 - Usama
+Time and Date: Sat May 27 16:59:30 PKT 2023
+Amount Transfer: 100
+Current Balance: 1100.0

@@ -1,0 +1,63 @@
+aun
+hamza1
+123
+Date Of Birth: Wed May 10 00:00:00 PKT 2023
+Gender: Female
+1000.0
+
+Transfer To: s
+Time and Date: Tue May 09 15:16:01 PKT 2023
+Current Balance: 490.0
+
+Transfer by: hsus232 - Has
+Time and Date: Tue May 09 15:20:08 PKT 2023
+Amount Transfer: 100
+Current Balance: 590.0
+
+Transfer by: hsus232 - Has
+Time and Date: Tue May 09 15:21:59 PKT 2023
+Amount Transfer: 100
+Current Balance: 690.0
+
+Transfer To: s
+Time and Date: Tue May 09 15:25:21 PKT 2023
+Amount Transfer: 100Service Fee2.0
+Current Balance: 588.0
+
+Transfer To: s
+Time and Date: Tue May 09 19:12:25 PKT 2023
+Amount Transfer: 100
+Service Fee2.0
+Current Balance: 486.0
+
+Transfer by: hsus232 - Has
+Time and Date: Wed May 10 16:45:21 PKT 2023
+Amount Transfer: 100
+Current Balance: 586.0
+
+Transfer by: hsus232 - Has
+Time and Date: Wed May 10 16:51:03 PKT 2023
+Amount Transfer: 100
+Current Balance: 686.0
+
+Transfer To: s
+Time and Date: Wed May 10 16:56:40 PKT 2023
+Amount Transfer: 100
+Service Fee2.0
+Current Balance: 584.0
+
+Transfer by: hamza1 - aun
+Time and Date: Wed May 24 12:33:29 PKT 2023
+Amount Transfer: 10
+Current Balance: 594.0
+
+Transfer To: hamza1
+Time and Date: Wed May 24 12:33:29 PKT 2023
+Amount Transfer: 10
+Service Fee0.2
+Current Balance: 989.8
+
+Transfer by: usama123 - Usama
+Time and Date: Wed May 24 12:44:19 PKT 2023
+Amount Transfer: 100
+Current Balance: 1089.8

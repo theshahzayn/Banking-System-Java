@@ -1,0 +1,31 @@
+Usama
+usama123
+usama123
+Date Of Birth: Thu May 04 00:00:00 PKT 2023
+Gender: Female
+10000.0
+
+Transfer To: hamza1
+Time and Date: Wed May 24 12:44:19 PKT 2023
+Amount Transfer: 100
+Service Fee2.0
+Current Balance: 9898.0
+
+Transfer To: shaf123
+Time and Date: Wed May 24 13:31:01 PKT 2023
+Amount Transfer: 100
+Service Fee2.0
+Current Balance: 9796.0
+
+
+Money Deposited
+Time and Date: Thu May 25 22:04:24 PKT 2023
+Amount Transfer: 100.0
+Current Balance: 9896.0
+
+
+Transfer To: s
+Time and Date: Sat May 27 16:59:30 PKT 2023
+Amount Transfer: 100
+Service Fee2.0
+Current Balance: 9794.0
